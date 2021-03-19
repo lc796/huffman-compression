@@ -1,5 +1,5 @@
 ## Introduction
-This is an implementation of Huffman Coding in Java. 
+This is an implementation of Huffman Coding in Java. This project is hosted on Github at https://github.com/lc796/huffman-compression
 
 ## How to use
 To use, you should run the following command:
